@@ -1,0 +1,65 @@
+.warna1{
+    background-color: #f38181;
+}
+
+.warna2{
+    background-color: #fce38a;
+}
+
+.warna3{
+    background-color: #eaffd0;
+}
+
+.warna4{
+    background-color: #95e1d3;
+}
+
+.banner{
+    height: 50vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/bg.jpg');
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-dress{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/dress.jfif');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-clothes{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/clothes.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-bags{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/bags.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #fce38a;
+}
+
+footer {
+    background-color: #95e1d3;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.banner-produk{
+    height: 30vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/bg.jpg');
+    background-position: 50% 20%;
+}
